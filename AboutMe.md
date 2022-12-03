@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hariharareddy
-- 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python and Java Languages.
+- 🌱 I’m currently learning Python, Data structures and Algorithms
 - 💞️ I’m looking to collaborate on Python based projects
 - 📫 How to reach me hariharareddyg9@gmail.com 
 
